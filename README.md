@@ -16,7 +16,7 @@
 ### Configuration
 
 Since accessing Elsevier's API requires API Key ([available here](https://dev.elsevier.com/)), you need to follow the steps to configure it:
-- In the folder in which exampleProg.py resides, create a file called 'config.json'
+- In the folder in which main.py resides, create a file called 'config.json'
 - Open 'config.json' in a file editor, and insert the following:
   ```json
   {
